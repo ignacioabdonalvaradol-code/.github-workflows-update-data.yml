@@ -1,4 +1,4 @@
-name: Actualizar datos de Mega Liga Proo
+Mega Liga Proo
 
 on:
   workflow_dispatch:
